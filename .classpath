@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<classpath>
+	<classpathentry kind="src" path="src/"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/libs/colorpicker.jar"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/libs/jh.jar"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/libs/MRJAdapter.jar"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/libs/fontchooser.jar"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/scripts/data/javahelp/lib/jhall.jar"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/scripts/data/javahelp/lib/jh.jar"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/scripts/data/javahelp/lib/jhbasic.jar"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/scripts/data/javahelp/lib/jsearch.jar"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/scripts/data/javahelp/bin/jhindexer.jar"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/circuit-code-r256-trunk/scripts/data/javahelp/bin/jhsearch.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+</classpath>
